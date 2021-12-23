@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem 1rem;
+  width: 65%;
+  border-color: red;
+}
+
+body {
+  background-color: cornflowerblue;
+}
+
+h1 {
+  color: red;
+}
+
+h3 {
+  color: red;
+}
